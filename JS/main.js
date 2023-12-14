@@ -16,7 +16,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
             tablero.classList.add('blanco');
         };
-
     };
-
 });
